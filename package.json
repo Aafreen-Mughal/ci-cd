@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "16.1.5",
@@ -23,8 +23,4 @@
     "tailwindcss": "^4",
     "typescript": "^5"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 2fd5463 (fix nextjs structure)
